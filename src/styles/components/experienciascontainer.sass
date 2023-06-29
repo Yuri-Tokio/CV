@@ -1,0 +1,34 @@
+@use '../variables'
+@use '../mixins'
+    
+.experiencias
+    margin-bottom: 1rem
+
+    .experiencias-grid
+        display: flex
+        flex-direction: column
+        flex-wrap: wrap
+        gap: 1.5rem
+
+    .technology-card
+        gap: 1rem
+        padding: 1.5rem
+        border: 1px solid #333
+        
+        border-radius: variables.$card-border-radius 
+        width: 100%
+
+        h3
+            color: #fff
+            
+        h5  
+            color: variables.$text-color-secondary
+            margin-bottom: 1rem
+
+        ul
+            color: #fff
+            padding-left: 1rem
+            
+
+        ul li
+            margin-top: 1.5rem           

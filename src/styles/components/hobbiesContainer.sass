@@ -1,0 +1,28 @@
+@use '../variables'
+@use '../mixins' 
+    
+#hobbie
+    @include mixins.center
+    flex-direction: column
+    background-color: variables.$bg-color-secondary
+    padding: 1rem
+    text-align: left
+    width: 80%
+    border-radius: variables.$card-border-radius
+
+    .info-card
+        @include mixins.center
+        justify-content: start
+        gap: 1rem
+        width: 100%
+
+        h3
+            color: variables.$text-color-secondary
+            margin-bottom: .5rem
+
+        p
+            color: variables.$text-color
+            font-weight: bold
+            padding: 2px
+            
+
