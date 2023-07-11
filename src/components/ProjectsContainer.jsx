@@ -1,8 +1,5 @@
 import SocialNetworkContainer from "./SocialNetworkContainer";
 
-import "./../styles/components/projectsContainer.sass"
-
-
 const ProjectsContainer = () => {
   return (
     <section id="projects-container">
