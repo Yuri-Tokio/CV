@@ -1,12 +1,12 @@
-import { FaLinkedinIn, FaGithub, FaInstagram } from "react-icons/fa";
-
 import SocialNetworkContainer from "./SocialNetworkContainer";
+
+import "./../styles/components/projectsContainer.sass"
 
 
 const ProjectsContainer = () => {
   return (
-    <section className="projects-container">
-      <h2>LinkedIn e Repositório GIT</h2>
+    <section id="projects-container">
+      <h2>LinkedIn e Projetos</h2>
       <SocialNetworkContainer />
     </section>
   );
