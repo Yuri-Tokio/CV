@@ -1,9 +1,10 @@
-# Curriculo como PDF
-  Este projeto aborda meu curriculo para ser salvo como PDF através do seu Browser
+# Currículo como PDF
+  Este projeto aborda meu currículo
   
   Ele foi criado com `React` e `Vite` + `SASS`
 
-# Rodando o projeto
+## Baixando dependências
+  npm i
 
-Comando no terminal para rodar
-`npm run dev`
+# Rodando o projeto
+  `npm run dev`
