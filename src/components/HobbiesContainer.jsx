@@ -7,11 +7,11 @@ const HobbiesContainer = () => {
     <section id="hobbie">
       <div className="info-card">
         <div>
-            <h3>Hobbies</h3>
-            <p>Xadrez</p>
-            <p>Stand Up</p>
-            <p>Ler Mangás</p>
-          </div>
+          <h3>Hobbies</h3>
+          <p>Xadrez</p>
+          <p>Esportes</p>
+          <p>Stand Up</p>
+        </div>
       </div>
     </section>
   );

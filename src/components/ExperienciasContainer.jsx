@@ -23,22 +23,24 @@ const ExperienciasContainer = () => {
           <h3>Tok & Stok - Desenvolvedor Web Jr.</h3>
           <h5>Janeiro 2022 - Outubro 2022 (10 meses)</h5>
           <ul>
-            <li>Desenvolvimento na modelagem DDD (Domain-Driven-Design)</li>
-            <li>Integrações de APIs RESTfull e MicroServiços para aplicações Web</li>
-            <li>Desenvolvimento de projetos responsivos com: React Js, SASS, .NET CORE MVC, C#, Node.Js, PostgreSQL</li>      
+            <li>Integrações de APIs RESTful e MicroServiços</li>
+            <li>Desenvolvimento na modelagem DDD</li>
+            <li>HTTP Request/Response</li>
+            <li>Criação de projetos responsivos com React.Js e ASP.NET CORE MVC</li>
             <li>Versionamento de atividades com Github.</li>
-            <li>Participante ativo em todas as fases da metodologia ágil Scrum.</li>
+            <li>Participação ativa em todas as fases da metodologia ágil Scrum.
+            </li>
           </ul>
         </div>
         <div className="technology-card">
           <h3>Marisa - Quality Assurance Jr.</h3>
           <h5>Janeiro 2021 - Dezembro 2021 (1 ano)</h5>
           <ul>
-            <li>Testes: caixa preta, caixa branca, regressão, usabilidade, segurança e automatizados com Automation Anywhere</li>
             <li>Criação de planos de testes nos modelos PDD e SDD</li>
-            <li>TesteRail desenvolvidos e implementados pra garantia da experiencia do usuario</li>
+            <li>TesteRail desenvolvidos e implementados pra garantia da experiência do usuário</li>
             <li>RPA com automation anywhere</li>
-            <li>Participante ativo em todas as fases da metodologia ágil Scrum.</li>
+            <li>Participação ativa em todas as fases da metodologia ágil Scrum.</li>
+            <li>Testes de caixa preta, caixa branca, regressão, usabilidade e segurança</li>
           </ul>
         </div>
         <div className="technology-card">
